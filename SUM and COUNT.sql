@@ -1,6 +1,5 @@
 --This tutorial is about aggregate functions such as COUNT, SUM and AVG. An aggregate function takes many values and delivers just one value. For example the function SUM would aggregate the values 2, 4 and 5 to deliver the single value 11.
---
-
+--Table name:world
 |     name    | continent |   area   | population |      gdp     |
 | Afghanistan |    Asia   |  652230  |  25500100  |  20343000000 |
 |   Albania   |   Europe  |   28748  |   2831741  |  12960000000 |
